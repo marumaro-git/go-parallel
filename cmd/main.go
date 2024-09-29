@@ -10,6 +10,8 @@ func main() {
 	// service.WaitGroupSample2()
 
 	// service.MutexSample1()
-	service.RWMutexSample1()
+	// service.RWMutexSample1()
+	// service.CondSample()
+	service.OnceSample()
 
 }
